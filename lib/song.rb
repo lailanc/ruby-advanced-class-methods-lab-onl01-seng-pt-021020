@@ -39,4 +39,12 @@ def song.new_from_filename
   
 end 
 
-def song.create_from_file
+def song.create_from_filename
+  
+end 
+
+def song.destroy_all
+  
+end 
+
+end 
