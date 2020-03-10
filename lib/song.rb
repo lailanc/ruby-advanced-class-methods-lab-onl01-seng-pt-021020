@@ -23,4 +23,8 @@ def song.create_by_name
   
 end
 
+def song.find_by_name
+  
+end 
+
 def 
