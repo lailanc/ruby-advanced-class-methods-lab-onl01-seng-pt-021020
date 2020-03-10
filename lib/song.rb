@@ -44,7 +44,7 @@ def song.create_from_filename
 end 
 
 def song.destroy_all
-  @@all = []
+
 end 
 
 end 
