@@ -15,37 +15,5 @@ class Song
     @@all << new_song
     new_song
   end 
-  
-  def song.new_by_name
-    
-  end 
-  
-def song.create_by_name
-  
-end
-
-def song.find_by_name
-  
-end 
-
-def song.find_or_craete_by_name
-  
-end 
-
-def song.alphabetical
-  
-end 
-
-def song.new_from_filename
-  
-end 
-
-def song.create_from_filename
-  
-end 
-
-def song.destroy_all
-
-end 
 
 end 
