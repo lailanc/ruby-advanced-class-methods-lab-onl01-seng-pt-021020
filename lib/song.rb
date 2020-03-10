@@ -31,4 +31,11 @@ def song.find_or_craete_by_name
   
 end 
 
-def 
+def song.alphabetical
+  
+end 
+
+def song.new_from_filename
+  
+end 
+
