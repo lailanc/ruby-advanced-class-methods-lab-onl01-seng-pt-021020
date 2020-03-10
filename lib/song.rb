@@ -27,4 +27,7 @@ def song.find_by_name
   
 end 
 
-def 
+def song.find_or_craete_by_name
+  
+end 
+
