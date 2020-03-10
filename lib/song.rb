@@ -19,5 +19,8 @@ class Song
     
   end 
   
-def 
+def song.create_by_name
+  
 end
+
+def 
