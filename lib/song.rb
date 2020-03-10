@@ -39,3 +39,4 @@ def song.new_from_filename
   
 end 
 
+def song.create_from_file
